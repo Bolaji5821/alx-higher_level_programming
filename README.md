@@ -1,1 +1,1 @@
-This repository contains my alx python scripts and source codes for
+This repository contains my alx python scripts and source codes 
