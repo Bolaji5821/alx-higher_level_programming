@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i#!/usr/bin/python3
 word = "Holberton"
 word_first_3 = f"{word[0:3]}"
 word_last_two = f"{word[7:]}"
