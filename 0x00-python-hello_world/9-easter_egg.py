@@ -1,2 +1,2 @@
-str = "The Zen of Python, by Tim Peters\n"
-print(str)
+#!/usr/bin/python3
+import this
