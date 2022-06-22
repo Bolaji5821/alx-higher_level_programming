@@ -1,1 +1,1 @@
-This repository contains my alx python scripts and source codes 
+This directory contains more data structure functions and program for python
