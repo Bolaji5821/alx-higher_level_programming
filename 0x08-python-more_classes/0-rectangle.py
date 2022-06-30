@@ -1,3 +1,7 @@
 #!/usr/bin/python3
+"""This is a Reactangle class."""
+
+
 class Rectangle:
-    'Defining Rectangle class'
+    """This is a rectangle module"""
+    pass
