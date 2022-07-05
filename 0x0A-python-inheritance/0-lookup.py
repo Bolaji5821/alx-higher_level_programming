@@ -10,4 +10,4 @@ def lookup(obj):
     Parameter: object or class to iterate
     """
 
-    return obj.__dict__
+    return dir(obj)
