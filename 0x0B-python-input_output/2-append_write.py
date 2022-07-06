@@ -8,4 +8,4 @@ def append_write(filename="", text=""):
     """appends a string and returns the number of characters added"""
 
     with open(filename, 'a+') as f:
-        f.write(text)
+        return f.write(text)
