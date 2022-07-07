@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 """Module 10-class_to_json.
 Returns the dictionary description with
 simple data structure (list, dictionary,
